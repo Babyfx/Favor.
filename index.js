@@ -1,7 +1,7 @@
 /*
 
-# Base By Devorsixcore
-# Owner ? : t.me/imdevorsix
+# Base By babyfx
+# Owner ? : t.me/babyfx
 !- do not delete this credit
 
 */
@@ -281,12 +281,12 @@ async function tdxStart() {
     //}
     //const tdx = makeWASocket(connectionOptions);
     if (usePairingCode && !tdx.authState.creds.registered) {
-        say("SPIDER-V7\n", {
+        say("favor.\n", {
             font: 'block',
             align: 'center',
             gradient: [randomcolor, randomcolor]
         });
-        say("Create By 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒\n", {
+        say("Create By babyfx\n", {
             font: 'console',
             align: 'center',
             gradient: [randomcolor, randomcolor]
